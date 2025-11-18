@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 👋 Hi, I’m @dns2utf8
+- 👀 I’m interested in rust and distributed systemd
+- 🌱 I’m currently learning raw websocket connections
+- 💞️ I’m looking to collaborate on RustFest.ch
+- ⚡ Fun fact: I am available for hire
+
 <!--
 **dns2utf8/dns2utf8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
