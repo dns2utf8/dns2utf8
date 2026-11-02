@@ -4,7 +4,7 @@
 - 👀 I’m interested in rust and distributed systemd
 - 🌱 I’m currently learning raw websocket connections
 - 💞️ I’m looking to collaborate on RustFest.ch
-- 🌐 My homepage: https://estada.ch
+- 🌐 My homepage: [estada.ch](https://estada.ch)
 - ⚡ Fun fact: I am available for hire
 
 <!--
